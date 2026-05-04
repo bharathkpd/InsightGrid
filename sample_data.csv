@@ -1,0 +1,501 @@
+Date,Product,Category,Quantity,Revenue
+2023-04-13,Lipstick,Beauty,8,4821.38
+2023-04-13,Table,Furniture,7,472.52
+2023-03-29,Running Shoes,Sports,8,5687.93
+2023-05-30,Yoga Mat,Sports,8,6672.95
+2023-10-21,Sofa,Furniture,5,3106.53
+2023-11-10,Running Shoes,Sports,9,2684.85
+2023-02-28,Sofa,Furniture,3,1165.91
+2023-09-01,Headphones,Electronics,5,3057.35
+2023-01-21,Headphones,Electronics,2,1898.79
+2023-11-12,Desk,Furniture,9,232.26
+2023-12-06,Perfume,Beauty,7,4297.28
+2023-09-21,Jeans,Clothing,1,266.19
+2023-12-26,Foundation,Beauty,6,1295.17
+2023-09-17,Dumbbells,Sports,2,1554.76
+2023-06-11,Desk,Furniture,4,2407.68
+2023-10-31,Lipstick,Beauty,8,6768.71
+2023-08-25,Table,Furniture,5,2954.42
+2023-08-05,Mascara,Beauty,9,2729.8
+2023-10-28,Laptop,Electronics,7,3004.17
+2023-05-09,Mascara,Beauty,8,191.51
+2023-03-22,Jacket,Clothing,1,609.9
+2023-08-19,Chair,Furniture,7,5960.77
+2023-09-25,Chair,Furniture,7,2225.11
+2023-08-04,Dumbbells,Sports,8,2255.8
+2023-02-04,Headphones,Electronics,5,4859.97
+2023-05-11,Laptop,Electronics,7,5412.8
+2023-12-25,T-Shirt,Clothing,3,123.34
+2023-08-19,Tablet,Electronics,4,3633.96
+2023-08-19,Dumbbells,Sports,4,3773.7
+2023-11-23,Jacket,Clothing,6,5289.98
+2023-06-19,Yoga Mat,Sports,9,1029.95
+2023-10-11,Mascara,Beauty,4,3574.53
+2023-11-27,Table,Furniture,9,2923.41
+2023-08-13,Laptop,Electronics,9,7378.51
+2023-08-21,Jacket,Clothing,6,3093.84
+2023-05-17,Basketball,Sports,3,830.15
+2023-06-01,Jeans,Clothing,8,5647.91
+2023-04-23,Smartphone,Electronics,4,1017.63
+2023-10-22,Table,Furniture,1,156.61
+2023-03-22,T-Shirt,Clothing,2,1015.3
+2023-02-23,Running Shoes,Sports,1,638.01
+2023-05-06,Chair,Furniture,6,1497.81
+2023-11-20,Shoes,Clothing,1,730.93
+2023-10-07,Running Shoes,Sports,2,1274.39
+2023-08-28,Laptop,Electronics,6,4193.13
+2023-09-16,Mascara,Beauty,4,105.69
+2023-05-27,Mascara,Beauty,7,1278.36
+2023-05-08,Sofa,Furniture,1,678.93
+2023-05-31,Table,Furniture,7,4643.69
+2023-12-12,Tablet,Electronics,1,249.43
+2023-10-31,Lipstick,Beauty,5,4419.05
+2023-01-09,Headphones,Electronics,3,2186.09
+2023-05-11,Mascara,Beauty,6,4692.46
+2023-04-26,T-Shirt,Clothing,8,6299.9
+2023-04-14,Foundation,Beauty,3,1135.68
+2023-04-09,Laptop,Electronics,2,338.4
+2023-12-04,Desk,Furniture,3,1966.32
+2023-06-18,Lipstick,Beauty,4,979.51
+2023-10-04,Mascara,Beauty,8,6805.85
+2023-05-08,Tablet,Electronics,3,1919.91
+2023-01-22,Dumbbells,Sports,6,5442.23
+2023-01-27,Chair,Furniture,1,581.13
+2023-11-13,Shoes,Clothing,3,2312.61
+2023-01-17,Mascara,Beauty,5,4423.3
+2023-08-21,Running Shoes,Sports,1,557.24
+2023-04-05,Shoes,Clothing,1,84.59
+2023-09-10,Running Shoes,Sports,7,1930.53
+2023-11-19,Chair,Furniture,6,4194.42
+2023-12-26,Sofa,Furniture,6,2190.36
+2023-05-07,Jeans,Clothing,2,658.65
+2023-04-14,Laptop,Electronics,6,2195.38
+2023-06-19,Table,Furniture,2,1736.8
+2023-01-13,Foundation,Beauty,7,3545.51
+2023-06-22,Lipstick,Beauty,8,5639.58
+2023-05-22,Perfume,Beauty,7,261.38
+2023-12-20,Sofa,Furniture,7,4727.14
+2023-02-20,Smartphone,Electronics,6,3569.55
+2023-12-08,Tablet,Electronics,6,1861.4
+2023-04-11,Tablet,Electronics,5,1394.14
+2023-04-18,Dumbbells,Sports,4,3374.41
+2023-12-16,Jacket,Clothing,8,5830.64
+2023-09-26,Sofa,Furniture,3,2391.7
+2023-11-15,Shoes,Clothing,7,1808.46
+2023-04-27,Tablet,Electronics,5,338.06
+2023-05-02,Headphones,Electronics,2,494.78
+2023-04-28,Tablet,Electronics,5,3209.44
+2023-07-08,Yoga Mat,Sports,7,400.67
+2023-06-03,T-Shirt,Clothing,6,145.5
+2023-08-08,Dumbbells,Sports,1,318.3
+2023-07-23,Desk,Furniture,5,2393.69
+2023-10-16,Dumbbells,Sports,6,3832.46
+2023-10-17,Perfume,Beauty,3,1524.31
+2023-09-14,Basketball,Sports,4,2478.77
+2023-12-02,Chair,Furniture,4,2318.88
+2023-06-27,Shoes,Clothing,1,463.67
+2023-06-28,T-Shirt,Clothing,3,2466.67
+2023-06-17,Table,Furniture,2,97.15
+2023-08-30,Jacket,Clothing,1,659.17
+2023-04-03,Desk,Furniture,2,536.18
+2023-07-15,Chair,Furniture,2,1265.31
+2023-08-05,Basketball,Sports,9,4972.43
+2023-12-23,Tablet,Electronics,3,2971.8
+2023-02-05,Chair,Furniture,7,4093.17
+2023-05-31,Running Shoes,Sports,1,683.05
+2023-10-06,Headphones,Electronics,9,3455.56
+2023-03-03,Mascara,Beauty,9,2941.64
+2023-07-06,T-Shirt,Clothing,4,82.92
+2023-08-21,Shoes,Clothing,9,2935.08
+2023-07-25,Perfume,Beauty,5,503.94
+2023-01-25,Perfume,Beauty,5,3774.25
+2023-05-31,Headphones,Electronics,5,2497.38
+2023-08-11,Chair,Furniture,3,2666.48
+2023-08-23,Jeans,Clothing,9,6875.06
+2023-09-10,Running Shoes,Sports,9,7412.77
+2023-05-02,Chair,Furniture,5,1204.48
+2023-05-16,Basketball,Sports,6,4888.03
+2023-11-23,Laptop,Electronics,4,1426.86
+2023-09-09,T-Shirt,Clothing,6,4248.2
+2023-07-21,Table,Furniture,7,3080.75
+2023-06-22,Yoga Mat,Sports,4,510.52
+2023-11-13,Headphones,Electronics,1,684.23
+2023-12-14,Headphones,Electronics,1,92.06
+2023-04-27,Sofa,Furniture,5,264.83
+2023-08-01,Shoes,Clothing,5,1302.3
+2023-05-27,Lipstick,Beauty,2,349.11
+2023-11-01,Laptop,Electronics,6,3530.83
+2023-05-24,Headphones,Electronics,8,3204.61
+2023-06-05,Running Shoes,Sports,4,1876.25
+2023-07-05,Foundation,Beauty,5,4873.25
+2023-07-11,Jeans,Clothing,1,286.97
+2023-07-31,Running Shoes,Sports,3,2472.94
+2023-03-23,Shoes,Clothing,5,3086.41
+2023-01-10,Table,Furniture,5,180.52
+2023-10-16,Smartphone,Electronics,1,382.97
+2023-10-09,Smartphone,Electronics,1,839.95
+2023-04-08,Headphones,Electronics,1,23.54
+2023-11-07,Lipstick,Beauty,5,4998.6
+2023-12-24,T-Shirt,Clothing,7,5399.08
+2023-06-14,Desk,Furniture,3,764.62
+2023-03-19,Smartphone,Electronics,1,954.51
+2023-07-24,Foundation,Beauty,1,674.98
+2023-10-15,Sofa,Furniture,8,255.7
+2023-09-07,Desk,Furniture,6,4998.35
+2023-11-02,Lipstick,Beauty,6,5809.76
+2023-08-10,T-Shirt,Clothing,1,142.68
+2023-10-30,Basketball,Sports,2,1613.99
+2023-04-13,Foundation,Beauty,6,3672.04
+2023-12-04,Jacket,Clothing,2,709.55
+2023-06-15,Tablet,Electronics,7,3698.56
+2023-03-22,Basketball,Sports,4,1859.01
+2023-11-26,Tablet,Electronics,4,1858.18
+2023-02-03,Yoga Mat,Sports,3,1625.67
+2023-05-31,Jeans,Clothing,8,1506.13
+2023-07-03,Headphones,Electronics,3,1560.25
+2023-06-09,Chair,Furniture,3,151.38
+2023-01-05,Sofa,Furniture,6,586.89
+2023-01-01,Basketball,Sports,2,274.92
+2023-08-06,Dumbbells,Sports,9,912.31
+2023-02-16,Smartphone,Electronics,8,6998.74
+2023-11-15,Basketball,Sports,4,3232.56
+2023-04-23,T-Shirt,Clothing,4,869.02
+2023-05-07,Sofa,Furniture,7,3751.67
+2023-12-31,Desk,Furniture,8,1134.29
+2023-01-03,Jacket,Clothing,2,905.88
+2023-08-15,Jacket,Clothing,9,6660.28
+2023-01-28,Table,Furniture,9,7580.73
+2023-03-27,Desk,Furniture,9,8024.6
+2023-07-31,Tablet,Electronics,3,1957.0
+2023-05-26,Perfume,Beauty,6,3545.84
+2023-09-21,Tablet,Electronics,3,1154.95
+2023-04-11,Foundation,Beauty,2,503.82
+2023-11-11,Yoga Mat,Sports,5,4671.77
+2023-05-30,Yoga Mat,Sports,6,1520.99
+2023-01-04,Jeans,Clothing,8,7182.38
+2023-09-04,Jacket,Clothing,8,5599.93
+2023-08-11,Sofa,Furniture,4,60.99
+2023-04-28,Smartphone,Electronics,8,5805.34
+2023-03-03,Smartphone,Electronics,8,3854.83
+2023-06-22,Lipstick,Beauty,6,5809.88
+2023-11-20,Shoes,Clothing,1,738.88
+2023-05-20,Smartphone,Electronics,6,3512.56
+2023-05-19,Lipstick,Beauty,3,183.92
+2023-06-27,Chair,Furniture,7,3874.03
+2023-01-13,Sofa,Furniture,1,147.44
+2023-11-25,Laptop,Electronics,8,4880.33
+2023-04-04,Laptop,Electronics,2,266.11
+2023-05-17,Sofa,Furniture,3,227.49
+2023-10-23,Mascara,Beauty,8,6637.29
+2023-08-17,Foundation,Beauty,3,517.87
+2023-01-05,Jacket,Clothing,4,1292.14
+2023-02-11,Smartphone,Electronics,8,3659.43
+2023-04-14,T-Shirt,Clothing,6,3266.3
+2023-03-04,Laptop,Electronics,1,900.58
+2023-11-05,Jacket,Clothing,3,1311.64
+2023-03-08,Shoes,Clothing,4,3184.34
+2023-06-06,Tablet,Electronics,7,4041.94
+2023-06-06,Laptop,Electronics,5,3903.93
+2023-10-16,Foundation,Beauty,2,1529.67
+2023-05-03,Chair,Furniture,6,4938.27
+2023-06-08,Lipstick,Beauty,8,4863.35
+2023-01-15,Running Shoes,Sports,5,2457.47
+2023-11-20,Lipstick,Beauty,2,44.16
+2023-04-25,Shoes,Clothing,4,2876.07
+2023-10-10,Running Shoes,Sports,8,4700.46
+2023-07-19,Desk,Furniture,8,4086.64
+2023-04-21,Perfume,Beauty,4,3678.25
+2023-05-13,Running Shoes,Sports,1,580.53
+2023-02-20,Yoga Mat,Sports,8,6736.28
+2023-09-24,Smartphone,Electronics,5,4924.96
+2023-04-20,Foundation,Beauty,7,6451.43
+2023-11-15,Shoes,Clothing,5,1927.56
+2023-11-05,Smartphone,Electronics,4,3159.65
+2023-06-03,Headphones,Electronics,4,2168.09
+2023-03-16,Table,Furniture,2,972.06
+2023-12-13,Tablet,Electronics,3,767.23
+2023-01-25,Foundation,Beauty,5,4578.49
+2023-06-26,Dumbbells,Sports,6,1367.38
+2023-02-18,Tablet,Electronics,9,1414.58
+2023-04-28,Perfume,Beauty,8,4057.38
+2023-09-14,Yoga Mat,Sports,7,3027.65
+2023-07-30,Basketball,Sports,8,4732.63
+2023-09-14,Jacket,Clothing,2,1058.29
+2023-04-23,Desk,Furniture,6,4606.22
+2023-05-12,Tablet,Electronics,7,6626.58
+2023-10-15,Desk,Furniture,3,1942.68
+2023-03-28,Mascara,Beauty,2,1736.65
+2023-01-08,Laptop,Electronics,7,1829.45
+2023-09-12,Running Shoes,Sports,6,2075.27
+2023-08-17,Jacket,Clothing,1,561.15
+2023-09-21,Table,Furniture,8,5800.35
+2023-04-30,Shoes,Clothing,4,3779.86
+2023-07-01,Yoga Mat,Sports,7,6281.61
+2023-01-07,Table,Furniture,1,215.81
+2023-05-27,Dumbbells,Sports,4,2585.99
+2023-03-23,Chair,Furniture,5,1742.0
+2023-08-22,Table,Furniture,7,307.2
+2023-01-20,Basketball,Sports,6,4656.58
+2023-08-14,Running Shoes,Sports,3,2846.91
+2023-12-08,Mascara,Beauty,1,869.78
+2023-04-30,Jeans,Clothing,7,5613.0
+2023-07-28,Table,Furniture,1,275.99
+2023-02-09,Chair,Furniture,9,2387.78
+2023-09-03,Jeans,Clothing,4,563.81
+2023-01-29,Yoga Mat,Sports,7,4804.46
+2023-11-22,Sofa,Furniture,5,4084.52
+2023-02-10,Chair,Furniture,5,3274.53
+2023-03-17,Yoga Mat,Sports,6,873.1
+2023-11-09,Shoes,Clothing,2,1209.02
+2023-11-05,Chair,Furniture,1,424.58
+2023-07-09,Desk,Furniture,2,349.24
+2023-12-29,Headphones,Electronics,5,3035.6
+2023-10-09,Basketball,Sports,8,3542.57
+2023-06-13,Headphones,Electronics,7,4300.1
+2023-11-06,Table,Furniture,8,7499.69
+2023-03-10,Smartphone,Electronics,4,2177.78
+2023-08-15,Perfume,Beauty,1,501.4
+2023-12-31,Jeans,Clothing,9,6958.83
+2023-03-14,Tablet,Electronics,1,418.67
+2023-03-02,Shoes,Clothing,9,2285.44
+2023-05-11,Chair,Furniture,3,838.27
+2023-12-20,Perfume,Beauty,5,503.33
+2023-11-01,Basketball,Sports,9,4063.91
+2023-10-30,Foundation,Beauty,8,6086.47
+2023-05-29,Headphones,Electronics,5,3476.77
+2023-07-17,Smartphone,Electronics,9,5851.78
+2023-02-28,Chair,Furniture,7,6995.52
+2023-10-09,Yoga Mat,Sports,7,305.25
+2023-04-27,Headphones,Electronics,8,7770.78
+2023-08-03,Yoga Mat,Sports,4,3384.42
+2023-04-13,Smartphone,Electronics,8,1901.67
+2023-07-07,Yoga Mat,Sports,3,2097.98
+2023-07-02,Perfume,Beauty,8,4352.77
+2023-12-15,Laptop,Electronics,2,1049.93
+2023-04-18,Table,Furniture,3,2614.19
+2023-09-08,Basketball,Sports,2,1879.35
+2023-08-15,Jacket,Clothing,4,248.63
+2023-11-14,Running Shoes,Sports,9,5264.55
+2023-08-24,Smartphone,Electronics,9,3087.06
+2023-12-06,Basketball,Sports,1,119.37
+2023-05-22,Sofa,Furniture,2,482.54
+2023-06-02,Laptop,Electronics,9,1065.36
+2023-12-10,Mascara,Beauty,5,3942.41
+2023-07-17,Jeans,Clothing,2,350.73
+2023-02-21,Perfume,Beauty,8,7546.44
+2023-03-04,Dumbbells,Sports,2,780.5
+2023-08-29,Table,Furniture,8,2852.99
+2023-09-18,Laptop,Electronics,3,1803.9
+2023-08-29,Dumbbells,Sports,3,2281.97
+2023-03-03,Tablet,Electronics,3,2453.02
+2023-09-26,Dumbbells,Sports,9,5373.09
+2023-12-23,Table,Furniture,9,3575.32
+2023-05-03,Lipstick,Beauty,9,485.4
+2023-08-14,Foundation,Beauty,9,3021.85
+2023-01-25,Dumbbells,Sports,2,828.74
+2023-02-07,T-Shirt,Clothing,2,180.47
+2023-11-12,Running Shoes,Sports,5,4957.8
+2023-04-24,Running Shoes,Sports,3,2479.3
+2023-02-25,Sofa,Furniture,1,879.84
+2023-05-27,Lipstick,Beauty,9,3066.02
+2023-02-14,Laptop,Electronics,4,2489.7
+2023-07-07,Dumbbells,Sports,9,350.59
+2023-01-23,Desk,Furniture,5,3730.37
+2023-03-23,Foundation,Beauty,7,1408.41
+2023-01-13,T-Shirt,Clothing,9,5719.46
+2023-08-11,Sofa,Furniture,8,6563.94
+2023-11-22,Jeans,Clothing,7,3820.98
+2023-08-12,Table,Furniture,5,557.42
+2023-07-15,Mascara,Beauty,4,308.63
+2023-08-07,Tablet,Electronics,6,4268.92
+2023-07-12,Sofa,Furniture,2,1745.64
+2023-07-11,Running Shoes,Sports,4,2604.39
+2023-01-07,Dumbbells,Sports,1,330.37
+2023-03-20,Jacket,Clothing,7,3160.11
+2023-08-14,Running Shoes,Sports,1,111.17
+2023-02-08,Basketball,Sports,4,3366.19
+2023-06-24,Foundation,Beauty,3,2854.06
+2023-08-24,Lipstick,Beauty,5,4552.15
+2023-12-23,Shoes,Clothing,6,4574.96
+2023-09-14,Sofa,Furniture,6,1425.93
+2023-06-12,Laptop,Electronics,8,2998.73
+2023-09-28,Mascara,Beauty,8,1341.23
+2023-05-25,Basketball,Sports,8,6185.7
+2023-06-23,Sofa,Furniture,7,4409.71
+2023-06-30,Foundation,Beauty,3,580.81
+2023-01-15,Smartphone,Electronics,7,937.54
+2023-08-24,Mascara,Beauty,9,1876.68
+2023-11-15,Basketball,Sports,2,1599.17
+2023-03-05,Basketball,Sports,8,3759.62
+2023-11-16,Desk,Furniture,6,1792.48
+2023-10-28,Laptop,Electronics,6,5452.44
+2023-09-24,Shoes,Clothing,9,2246.62
+2023-02-15,Mascara,Beauty,1,564.05
+2023-08-30,Lipstick,Beauty,2,1077.8
+2023-08-21,Yoga Mat,Sports,1,826.27
+2023-06-03,Desk,Furniture,7,1461.95
+2023-05-02,Table,Furniture,2,101.54
+2023-11-01,T-Shirt,Clothing,3,2691.78
+2023-01-09,Headphones,Electronics,9,6407.73
+2023-09-21,Sofa,Furniture,4,1384.22
+2023-09-08,Shoes,Clothing,4,2406.0
+2023-01-22,Table,Furniture,3,151.04
+2023-07-07,Desk,Furniture,2,139.5
+2023-03-28,Lipstick,Beauty,9,7857.59
+2023-05-02,Jacket,Clothing,4,2987.35
+2023-08-09,Dumbbells,Sports,3,510.17
+2023-07-30,Running Shoes,Sports,8,7800.36
+2023-05-11,Foundation,Beauty,3,2050.28
+2023-04-03,Headphones,Electronics,1,869.59
+2023-06-08,Chair,Furniture,8,3449.91
+2023-01-04,Mascara,Beauty,4,2039.19
+2023-02-19,Headphones,Electronics,9,3998.06
+2023-04-27,Sofa,Furniture,4,3498.76
+2023-09-19,Table,Furniture,3,873.05
+2023-05-05,Perfume,Beauty,2,1270.49
+2023-08-13,Jeans,Clothing,8,3290.06
+2023-03-28,Sofa,Furniture,2,378.33
+2023-11-21,Basketball,Sports,6,5232.25
+2023-04-21,Tablet,Electronics,2,208.62
+2023-05-25,T-Shirt,Clothing,9,3645.5
+2023-06-12,Basketball,Sports,1,775.74
+2023-06-13,Dumbbells,Sports,3,1342.81
+2023-03-21,Chair,Furniture,9,3929.21
+2023-10-03,Shoes,Clothing,1,260.0
+2023-10-11,Headphones,Electronics,5,1815.82
+2023-07-23,Basketball,Sports,1,708.33
+2023-11-08,Perfume,Beauty,6,1282.7
+2023-11-30,Chair,Furniture,5,4686.2
+2023-10-12,Headphones,Electronics,3,1373.03
+2023-09-02,T-Shirt,Clothing,1,512.16
+2023-07-25,Foundation,Beauty,4,3947.06
+2023-08-04,Jacket,Clothing,2,659.8
+2023-10-12,Headphones,Electronics,8,4163.52
+2023-06-27,Foundation,Beauty,4,537.94
+2023-05-06,Running Shoes,Sports,2,419.67
+2023-01-08,Chair,Furniture,1,733.52
+2023-06-06,Dumbbells,Sports,6,1576.52
+2023-07-12,Table,Furniture,2,503.41
+2023-01-26,Tablet,Electronics,8,6380.44
+2023-10-16,Headphones,Electronics,5,3351.51
+2023-12-27,Desk,Furniture,2,1998.84
+2023-03-04,Laptop,Electronics,9,8940.63
+2023-09-26,Laptop,Electronics,9,1062.17
+2023-04-08,Yoga Mat,Sports,4,2683.67
+2023-03-23,Basketball,Sports,7,3088.59
+2023-11-27,Tablet,Electronics,6,3915.5
+2023-08-01,Tablet,Electronics,7,3974.63
+2023-11-12,Basketball,Sports,1,245.17
+2023-10-18,Foundation,Beauty,3,530.28
+2023-11-26,Desk,Furniture,9,3473.89
+2023-10-09,Desk,Furniture,5,4078.14
+2023-06-02,Lipstick,Beauty,2,1062.72
+2023-10-27,Perfume,Beauty,7,5703.99
+2023-12-30,Jacket,Clothing,5,1019.1
+2023-12-02,Running Shoes,Sports,9,5923.32
+2023-02-20,Lipstick,Beauty,6,1215.68
+2023-11-30,Running Shoes,Sports,5,1460.12
+2023-01-27,Dumbbells,Sports,3,1755.37
+2023-04-16,Foundation,Beauty,2,811.81
+2023-03-18,Foundation,Beauty,9,4745.31
+2023-09-20,Foundation,Beauty,7,3709.38
+2023-03-12,Smartphone,Electronics,8,7706.38
+2023-09-20,Tablet,Electronics,8,4249.87
+2023-02-16,T-Shirt,Clothing,7,4491.24
+2023-10-04,Lipstick,Beauty,9,5851.26
+2023-05-01,Yoga Mat,Sports,8,6177.96
+2023-02-18,Table,Furniture,5,1545.2
+2023-06-01,Shoes,Clothing,7,4696.12
+2023-05-26,Shoes,Clothing,1,429.71
+2023-03-10,Headphones,Electronics,2,956.33
+2023-05-29,Smartphone,Electronics,5,3227.76
+2023-06-09,Jeans,Clothing,9,3572.97
+2023-09-11,Smartphone,Electronics,3,1803.23
+2023-05-26,Jeans,Clothing,6,2708.0
+2023-08-29,Jacket,Clothing,8,1096.88
+2023-01-19,Foundation,Beauty,6,3495.62
+2023-06-16,Yoga Mat,Sports,4,379.21
+2023-12-19,Perfume,Beauty,9,2971.24
+2023-03-11,Headphones,Electronics,4,1791.94
+2023-11-12,Sofa,Furniture,5,396.16
+2023-06-09,Running Shoes,Sports,6,3581.3
+2023-03-08,Lipstick,Beauty,3,595.26
+2023-05-10,Foundation,Beauty,6,3373.23
+2023-12-20,Mascara,Beauty,6,3400.04
+2023-02-05,Basketball,Sports,9,1608.96
+2023-04-16,Headphones,Electronics,1,307.84
+2023-05-16,Perfume,Beauty,7,2837.26
+2023-04-14,Running Shoes,Sports,8,6167.31
+2023-11-17,Smartphone,Electronics,5,510.0
+2023-08-19,Laptop,Electronics,6,1006.27
+2023-05-22,Lipstick,Beauty,7,1893.37
+2023-03-07,Laptop,Electronics,2,1875.18
+2023-11-27,Shoes,Clothing,7,6600.74
+2023-11-07,Jeans,Clothing,6,3425.46
+2023-09-01,Sofa,Furniture,1,125.2
+2023-03-23,Dumbbells,Sports,8,4297.25
+2023-05-14,Shoes,Clothing,7,2181.43
+2023-03-14,Dumbbells,Sports,2,324.51
+2023-07-25,Foundation,Beauty,9,5214.71
+2023-09-10,Tablet,Electronics,1,610.19
+2023-11-06,Running Shoes,Sports,3,2859.81
+2023-01-25,Basketball,Sports,2,154.98
+2023-01-25,Lipstick,Beauty,4,1780.47
+2023-11-12,Dumbbells,Sports,2,1307.4
+2023-10-14,T-Shirt,Clothing,3,599.59
+2023-12-11,Desk,Furniture,2,134.41
+2023-02-25,Headphones,Electronics,3,536.87
+2023-05-29,Tablet,Electronics,3,557.97
+2023-09-09,Tablet,Electronics,4,3986.92
+2023-09-30,Dumbbells,Sports,4,728.06
+2023-05-04,Table,Furniture,5,4438.69
+2023-03-03,Dumbbells,Sports,7,3711.75
+2023-01-14,Basketball,Sports,6,5785.1
+2023-07-02,Desk,Furniture,5,145.0
+2023-03-20,Yoga Mat,Sports,7,1020.17
+2023-03-06,Basketball,Sports,2,1266.01
+2023-06-30,Chair,Furniture,4,1510.78
+2023-07-07,Jacket,Clothing,5,4229.57
+2023-07-02,Yoga Mat,Sports,4,3464.06
+2023-04-22,Foundation,Beauty,8,6500.63
+2023-08-09,Lipstick,Beauty,6,2390.82
+2023-02-11,Basketball,Sports,9,1000.15
+2023-04-30,Laptop,Electronics,1,810.79
+2023-02-17,Basketball,Sports,2,96.08
+2023-08-20,Running Shoes,Sports,7,4639.32
+2023-08-02,Headphones,Electronics,1,75.99
+2023-12-10,Dumbbells,Sports,5,3700.3
+2023-03-28,Running Shoes,Sports,8,751.55
+2023-02-12,Laptop,Electronics,3,241.63
+2023-06-01,Laptop,Electronics,4,2960.53
+2023-11-10,Perfume,Beauty,4,3107.63
+2023-01-28,Jacket,Clothing,5,2770.6
+2023-12-18,Desk,Furniture,1,302.49
+2023-09-13,Laptop,Electronics,2,1341.35
+2023-02-18,Foundation,Beauty,4,3107.55
+2023-06-18,Smartphone,Electronics,7,360.72
+2023-09-23,Running Shoes,Sports,8,982.54
+2023-09-26,Running Shoes,Sports,2,273.63
+2023-09-28,Tablet,Electronics,2,464.74
+2023-06-02,Jeans,Clothing,9,1548.42
+2023-08-01,Mascara,Beauty,3,2664.17
+2023-05-02,Tablet,Electronics,9,4937.19
+2023-05-29,Yoga Mat,Sports,5,4893.07
+2023-10-29,Mascara,Beauty,6,4533.93
+2023-12-11,Lipstick,Beauty,2,233.73
+2023-08-01,Perfume,Beauty,2,442.75
+2023-03-29,Lipstick,Beauty,6,3280.89
+2023-07-08,Tablet,Electronics,3,913.72
+2023-01-19,Yoga Mat,Sports,7,4069.81
+2023-10-08,Dumbbells,Sports,8,3735.54
+2023-05-24,Tablet,Electronics,5,4413.18
+2023-04-14,Shoes,Clothing,2,423.99
+2023-01-10,Running Shoes,Sports,7,4331.8
+2023-03-07,Tablet,Electronics,9,5028.16
+2023-03-27,Desk,Furniture,6,5006.12
+2023-01-14,Smartphone,Electronics,5,1871.31
+2023-03-16,Jacket,Clothing,7,3329.31
+2023-07-30,Yoga Mat,Sports,4,1566.09
+2023-05-12,Foundation,Beauty,8,1800.3
+2023-06-03,Yoga Mat,Sports,5,59.31
+2023-12-25,Yoga Mat,Sports,6,1051.3
